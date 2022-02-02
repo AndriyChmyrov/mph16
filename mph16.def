@@ -1,0 +1,3 @@
+LIBRARY mph16.mexw64
+EXPORTS mexFunction
+EXPORTS mexfilerequiredapiversion 
